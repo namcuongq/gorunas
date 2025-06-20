@@ -3,11 +3,11 @@ A utility for user impersonation without accessing LSASS memory.
 
 # Usage
 
-![image](https://user-images.githubusercontent.com/png)
+![image](https://github.com/namcuongq/gorunas/blob/main/images/1.png)
 
 The tool can list available tokens which are running with the user you want to impersonate.
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/namcuongq/gorunas/blob/main/images/2.png)
 
 Example usage: 
 ```powershell
@@ -21,4 +21,4 @@ D:\Projects\Code\gorunas>gorunAs.exe exec DESKTOP-SIP4CNF/PC notepad.exe
 
 ```
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/namcuongq/gorunas/blob/main/images/3.png)
